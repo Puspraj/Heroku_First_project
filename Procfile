@@ -1,1 +1,1 @@
-web:gunicorn app:app
+web:gunicorn==20.1.0 app:app
